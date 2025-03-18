@@ -15,3 +15,6 @@ Storage | 128/256 GB UFS 3.1
 Battery | Non-removable Li-Po 4520 mAh battery
 Display | 1080 x 2400 pixels, 6.67 inches, 120 Hz AMOLED
 Camera  | Rear Main 108 MP Samsung S5KHM2, Rear Ultrawide 8 MP Sony IMX355, Rear Macro 5 MP Samsung S5K5E9, Front 20 MP Samsung S5K3T2 
+
+## Profile Visits
+![](https://komarev.com/ghpvc/?username=xiaomi-haydn-devs&color=B026FF&style=for-the-badge)
